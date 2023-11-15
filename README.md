@@ -10,11 +10,11 @@ The overall framework for HSI-VecNet.
 - Please put the  hyperspectral vectorization datasets into datasets folder.
 - The datasets folder is constructed as follows:
   -- indian_pines
-    -- indian_pines.mat
-    -- indian_pines_gt.mat
-    -- indian_pines_coco.json
+  ---- indian_pines.mat
+  ---- indian_pines_gt.mat
+  ---- indian_pines_coco.json
 
-2. Run inference.py to inference the  vectorization results.
+2. Run inference.py to inference the vectorization results.
 
 3. Run evaluation.py to evaluate the vectorization performance.
 
