@@ -1,5 +1,5 @@
 # HSI-VecNet
-This is Pytorch implementation for "Toward the Vectorization of the Hyperspectral Imagery"
+This is Pytorch implementation for "Toward the Vectorization of the Hyperspectral Imagery". If you have any questions, please contact yanyl@hnu.edu.cn
 
 ## Overview
 The overall framework for HSI-VecNet.
